@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron Morrow (@TheoreticalTurtle)
-- 👀 I’m interested in content platforms and data storage.
+- 👀 I’m interested in Game Development and APIs.
 - 🌱 I’m currently learning Google Compute Engine.
 - 💞️ I’m looking to collaborate on any project that is complicated or interesting! Or any games in Unity/Unreal!
 - 📫 You Can reach me by email CameronMorrow365@gmail.com
