@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cameron Morrow (@TheoreticalTurtle)
-- 👀 I’m interested in Game Development and APIs.
-- 🌱 I’m currently learning Google Compute Engine.
-- 💞️ I’m looking to collaborate on any project that is complicated or interesting! Or any games in Unity/Unreal!
+- 👀 I’m a full stack developer who builds video games in my free time.
+- 🌱 I’m currently learning .Net Maui app development.
+- 💞️ I’m looking to collaborate on any project that is complicated or interesting! Or any games in Unity!
 - 📫 You Can reach me by email CameronMorrow365@gmail.com
 <!---
 TheoreticalTurtle/TheoreticalTurtle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
