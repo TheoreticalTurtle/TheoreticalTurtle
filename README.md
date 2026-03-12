@@ -44,7 +44,7 @@ I’m open to collaborating on:
 ---
 
 ### 📫 Contact
-The best way to reach me is through GitHub — issues, discussions, or pull requests.
+The best way to reach me is via email CameronMorrow365@gmail.com
 
 
 <!---
